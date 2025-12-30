@@ -4,7 +4,7 @@
 
 git clone https://github.com/cesiumloser/telegram-repair-bot.git
 
-cd telegram-bot
+cd telegram-repair-bot
 
 npm install
 
