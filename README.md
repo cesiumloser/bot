@@ -11,11 +11,9 @@ npm install
 
  === ОБЯЗАТЕЛЬНЫЕ ПАРАМЕТРЫ ===
 
-Токен вашего бота (получите у @BotFather)
-TELEGRAM_BOT_TOKEN=
+TELEGRAM_BOT_TOKEN= Токен вашего бота (получите у @BotFather)
 
-ID чата куда отправлять заявки (узнайте у @userinfobot)
-CHAT_ID=
+CHAT_ID= ID чата куда отправлять заявки (узнайте у @userinfobot)
 
 === ОПЦИОНАЛЬНЫЕ НАСТРОЙКИ ===
 
