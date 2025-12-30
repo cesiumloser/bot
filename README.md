@@ -2,7 +2,7 @@
 
 1. Установка
 
-git clone https://github.com/ваш-repo/telegram-bot.git
+git clone https://github.com/cesiumloser/telegram-repeir-bot.git
 cd telegram-bot
 npm install
 
